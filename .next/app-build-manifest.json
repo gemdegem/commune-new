@@ -56,6 +56,18 @@
       "static/chunks/main-app.js",
       "static/css/app/docs/setup-commune/page.css",
       "static/chunks/app/docs/setup-commune/page.js"
+    ],
+    "/docs/basics/create-commune/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/basics/create-commune/page.css",
+      "static/chunks/app/docs/basics/create-commune/page.js"
+    ],
+    "/docs/basics/deploy-module/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/basics/deploy-module/page.css",
+      "static/chunks/app/docs/basics/deploy-module/page.js"
     ]
   }
 }

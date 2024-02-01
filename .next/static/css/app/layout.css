@@ -814,6 +814,9 @@ video {
 .flex-none {
   flex: none;
 }
+.grow {
+  flex-grow: 1;
+}
 .list-decimal {
   list-style-type: decimal;
 }
