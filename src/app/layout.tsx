@@ -7,7 +7,7 @@ import ThemeProvider from "./toggle-theme-provider";
 
 export const metadata: Metadata = {
   title: "Commune AI",
-  description: "Commune AI is a cutting-edge platform leveraging artificial intelligence to foster community engagement and streamline communication. It offers intuitive tools for real-time interaction, analytics, and automated responses, making it easier for communities to connect, share, and grow together.",
+  description: "Renovating the way we build software for developers and communities.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
