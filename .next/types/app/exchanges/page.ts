@@ -1,4 +1,4 @@
-// File: /Users/bartek/Downloads/Programowanie/Commune-fresh/frontend/src/app/exchanges/page.tsx
+// File: /Users/bartek/Downloads/Programowanie/commune deploy version/commune-new/src/app/exchanges/page.tsx
 import * as entry from '../../../../src/app/exchanges/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

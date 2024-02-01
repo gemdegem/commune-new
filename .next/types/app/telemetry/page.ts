@@ -1,4 +1,4 @@
-// File: /Users/bartek/Downloads/Programowanie/Commune-fresh/frontend/src/app/telemetry/page.tsx
+// File: /Users/bartek/Downloads/Programowanie/commune deploy version/commune-new/src/app/telemetry/page.tsx
 import * as entry from '../../../../src/app/telemetry/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
