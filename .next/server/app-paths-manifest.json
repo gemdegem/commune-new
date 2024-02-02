@@ -1,7 +1,7 @@
 {
-  "/page": "app/page.js",
   "/exchanges/page": "app/exchanges/page.js",
   "/telemetry/page": "app/telemetry/page.js",
-  "/docs/setup-commune/page": "app/docs/setup-commune/page.js",
+  "/page": "app/page.js",
+  "/modules/page": "app/modules/page.js",
   "/docs/basics/create-commune/page": "app/docs/basics/create-commune/page.js"
 }
