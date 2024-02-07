@@ -66,9 +66,6 @@ export default function NavigationBar() {
         <ActiveLink activeClassName={classes.active} className={classes.item} href="/telemetry">
           ⛓️ Telemetry
         </ActiveLink>
-        <ActiveLink activeClassName={classes.active} className={classes.item} href="/exchanges">
-          💱 Exchanges
-        </ActiveLink>
       </div>
       <div className={classNames(classes.items, classes.itemsRight)}>
         <Link className={classes.link} href="/docs/Introduction">
@@ -121,7 +118,7 @@ function NavigationBar2() {
       <Link href="/docs">Docs</Link>
       <Link href={config.whitepaperUrl}>Whitepaper</Link>
       <Link href="/telemetry">Telemetry</Link>
-      <Link href="/exchanges">Exchanges</Link>
+
       <ThemeToggler />
     </nav>
   );
