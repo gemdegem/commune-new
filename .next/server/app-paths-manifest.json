@@ -1,7 +1,6 @@
 {
-  "/not-found": "app/not-found.js",
   "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/telemetry/page": "app/telemetry/page.js",
-  "/modules/page": "app/modules/page.js"
+  "/modules/page": "app/modules/page.js",
+  "/docs/basics/create-commune/page": "app/docs/basics/create-commune/page.js"
 }

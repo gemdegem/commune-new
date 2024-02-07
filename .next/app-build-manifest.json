@@ -12,10 +12,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/telemetry/page": [
+    "/modules/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/telemetry/page.js"
+      "static/chunks/app/modules/layout.js"
     ],
     "/modules/page": [
       "static/chunks/webpack.js",
@@ -23,20 +23,45 @@
       "static/css/app/modules/page.css",
       "static/chunks/app/modules/page.js"
     ],
-    "/modules/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/modules/layout.js"
-    ],
     "/modules/@details/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/modules/@details/page.js"
     ],
-    "/not-found": [
+    "/telemetry/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+      "static/chunks/app/telemetry/page.js"
+    ],
+    "/docs/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/layout.css",
+      "static/chunks/app/docs/layout.js"
+    ],
+    "/docs/introduction/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/introduction/page.css",
+      "static/chunks/app/docs/introduction/page.js"
+    ],
+    "/docs/setup-commune/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/setup-commune/page.css",
+      "static/chunks/app/docs/setup-commune/page.js"
+    ],
+    "/docs/basics/create-commune/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/basics/create-commune/page.css",
+      "static/chunks/app/docs/basics/create-commune/page.js"
+    ],
+    "/docs/basics/deploy-module/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/docs/basics/deploy-module/page.css",
+      "static/chunks/app/docs/basics/deploy-module/page.js"
     ]
   }
 }
