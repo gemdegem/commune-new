@@ -5,7 +5,7 @@ export default function TelemetryPage() {
   return (
     <>
       <Head>
-        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+        <link rel="preload" href="../../globals.css" as="style" />
       </Head>
       <div className="flex flex-col items-center justify-center my-auto">
         <IframeTelemetry />
