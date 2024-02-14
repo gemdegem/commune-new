@@ -1,11 +1,11 @@
 import React from "react";
 
-const IframeTokenomic = () => {
+const IframeTelemetry = () => {
   return (
-    <div>
-      <iframe src="http://165.227.42.26:50059/" width="800px" height="800px" title="Example Iframe"></iframe>
-    </div>
+    <>
+      <iframe src="http://telemetry.communeai.net/#/0xbc6eb9753e2417476601485f9f8ef8474701ec199d456f989bd397682c9425c5" width="95%" height="1000px" title="Example Iframe" style={{ height: "1000px", width: "100%", border: "none", overflow: "hidden" }}></iframe>
+    </>
   );
 };
 
-export default IframeTokenomic;
+export default IframeTelemetry;
